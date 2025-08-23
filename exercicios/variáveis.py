@@ -1,3 +1,4 @@
+Exercicio 2: Lingugem de progamaçâo python - Bradesco
 Considere duas variáveis A 5 e B 3. Quais seriam os resultados das expressões a seguir?
 Assinale Verdadeiro para as expressões corretas e Falso para as incorretas.
 
