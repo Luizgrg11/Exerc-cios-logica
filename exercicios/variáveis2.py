@@ -1,3 +1,4 @@
+Exercicio 3: Linguagem de progamação Python - Bradesco
 Considere três variáveis A 5, B 8 e C 1. Quais seriam os resultados das expressões a seguir?
 Assinale Verdadeiro para as expressões corretas e Falso para as incorretas.
 
